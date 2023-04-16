@@ -1,0 +1,37 @@
+[
+  {
+    "id": 1,
+    "name": "X Burger",
+    "description": "Our classic burger with beef patty, lettuce, tomato, and special sauce",
+    "category": "sandwiches",
+    "price": 5
+  },
+  {
+    "id": 2,
+    "name": "X Egg",
+    "description": "Our classic burger with beef patty, lettuce, tomato, egg, and special sauce",
+    "category": "sandwiches",
+    "price": 4.5
+  },
+  {
+    "id": 3,
+    "name": "X Bacon",
+    "description": "Our classic burger with beef patty, lettuce, tomato, bacon, and special sauce",
+    "category": "sandwiches",
+    "price": 7
+  },
+  {
+    "id": 4,
+    "name": "Fries",
+    "description": "Crispy and delicious French fries",
+    "category": "extras",
+    "price": 2
+  },
+  {
+    "id": 5,
+    "name": "Soft drink",
+    "description": "Refreshing soft drink of your choice",
+    "category": "drinks",
+    "price": 2.5
+  }
+]
